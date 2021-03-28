@@ -38,7 +38,7 @@ THEN the saved events persist
 
 The following image shows the web application's appearance:
 
-<img src="./Assets/screenshot.png">
+<img src="./Images/screenshot.png">
 
 
 
@@ -47,7 +47,7 @@ The following image shows the web application's appearance:
 
 The following image shows the web application's functionality:
 
-![A user clicks on slots on the color-coded calendar and edits the events.](./Assets/functionality.gif)
+![A user clicks on slots on the color-coded calendar and edits the events.](./Images/functionality.gif)
 
 
 
