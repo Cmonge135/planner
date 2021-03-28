@@ -54,6 +54,6 @@ The following image shows the web application's functionality:
 
 ## Links
 
-* Deployed application: https://cmonge135.github.io/my-day-planner/
+* Deployed application: https://cmonge135.github.io/planner/
 
-* Github repositiory: https://github.com/Cmonge135/my-day-planner
+* Github repositiory: https://github.com/Cmonge135/planner
